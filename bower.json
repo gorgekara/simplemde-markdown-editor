@@ -1,9 +1,9 @@
 {
 	"name": "simplemde-gorgekara",
 	"version": "1.11.1",
-	"homepage": "https://github.com/NextStepWebs/simplemde-markdown-editor",
+	"homepage": "https://github.com/gorgekara/simplemde-markdown-editor",
 	"authors": [
-		"Wes Cossick <https://wescossick.com>"
+		"gorgekara"
 	],
 	"description": "A simple, beautiful, and embeddable JavaScript Markdown editor.",
 	"main": ["dist/simplemde.min.js", "dist/simplemde.min.css"],
